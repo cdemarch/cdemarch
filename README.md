@@ -2,9 +2,7 @@
 My name is Christopher DeMarchi 🙂
 
 - 💬 About Me: I'm currently a senior at UNC Charlotte working towards my degree in Software Systems and Networking. I recently had to move to Greenville, NC which is my reasoning for taking this class entirely online. I played competitive League of Legends for the school
-during my time here and was on the NECC fall winning team in my Sophomore year. During my Junior year we made it to top 8 in our group for CLOL, beating out NC State for our placement. We would have made it farther if Duke didn't rulebook us for a player being 1 minute late
-after we agreed to their reschedule to accomodate them. (You can certainly find the tweets online if you want to go snooping for the drama) I made it to 636 LP Grandmaster during our CLOL season but now that I'm graduating after this semester I can no longer play for the official team,
-so I'm taking a much needed break from the game to focus on this final semester. Aside from gaming I enjoy working on my car, swimming, fishing, and have tried my hand at content creation here and there.
+during my time here and was on the NECC fall winning team in my Sophomore year. During my Junior year we made it to top 8 in our group for CLOL, beating out NC State for our placement. Aside from gaming I enjoy working on my car, swimming, fishing, and have tried my hand at content creation here and there.
 
 - 📽 Projects: My easiest to find project would be the website I made in ITIS 3135 for web design. Its a simple website that's made to show my use of links, Java scripts, HTML, and other more basic functions for webpages. 
 Here is the link: https://webpages.charlotte.edu/cdemarch/ITIS3135/
